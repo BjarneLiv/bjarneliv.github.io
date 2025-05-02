@@ -11,8 +11,8 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'De Date',   url: 'proj-1'}
-- {name: 'Untitled',   url: 'proj-2'}
+- {name: 'De Date',   url: 'de_date'}
+- {name: 'Untitled',   url: 'untitled'}
 
 
 #-------------------------------
