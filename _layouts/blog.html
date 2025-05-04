@@ -17,6 +17,9 @@ layout: default
             {% else %}{{ d }}th{% endcase %},
           {{ post.date | date: "%Y" }}
         </span>
+        <script>
+          document.addEventListener('contextmenu', event => event.preventDefault());
+        </script>
       </div>
     {% endfor %}
   </div>
