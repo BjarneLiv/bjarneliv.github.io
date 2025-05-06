@@ -1,8 +1,10 @@
 <header>
-   <div class="logo">
-<a href="{{ site.github.url }}/">{{ site.title }}</a>
-     {% for item in site.data.settings.menu %}
-       <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
-     {% endfor %}
-   </div>
- </header>
+  <div class="logo">
+     <a href="{{ site.github.url }}/">{{ site.title }}</a>
+  </div>
+  <div class="menu">
+    {% for item in site.data.settings.menu %}
+      <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
+    {% endfor %}
+  </div>
+</header>
