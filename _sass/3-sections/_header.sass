@@ -1,39 +1,67 @@
-header
-  height: 90px
-  .logo
-    float: left
-    margin: 30px
-    font:
-      size: 24px
-      weight: 700
-    a
-      display: inline-block
-      color: rgba(0,0,0,1)
-      &:hover
-        color: $accent-color
-  nav
-    float: right
-    margin: 30px 30px 0 0
-    a
-      display: inline-block
-      margin-left: 20px
-      color: rgba(0,0,0,1)
-      font:
-        size: 24px
-        weight: 700
-      &:hover
-        color: $accent-color
+header {
+  display: flex;
+  justify-content: space-between; /* Ensure logo and nav are spaced apart */
+  align-items: center; /* Vertically align content */
+  height: 90px;
+  padding: 0 30px; /* Add padding for consistent spacing */
 
-@media (max-width: 768px)
-  header
-    .logo
-      margin: 10px 30px 0px 0px
-    nav
-      margin: 0px
-      margin-top: 18px
-      float: left
-      a
-        margin-left: 0px
-        margin-right: 20px
-        font:
-          size: 16px
+  .logo {
+    margin: 0; /* Remove unnecessary margin */
+    font: {
+      size: 24px;
+      weight: 700;
+    }
+
+    a {
+      display: inline-block;
+      color: rgba(0, 0, 0, 1);
+      text-decoration: none; /* Ensure the logo link doesn't have underlines */
+      &:hover {
+        color: $accent-color;
+      }
+    }
+  }
+
+  nav {
+    display: flex; /* Use flexbox for nav items */
+    gap: 20px; /* Add spacing between nav items */
+    margin: 0; /* Remove unnecessary margin */
+
+    a {
+      display: inline-block;
+      color: rgba(0, 0, 0, 1);
+      font: {
+        size: 24px;
+        weight: 700;
+      }
+      text-decoration: none; /* Remove underlines */
+      &:hover {
+        color: $accent-color;
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  header {
+    flex-direction: column; /* Stack logo and nav vertically */
+    align-items: flex-start; /* Align items to the left */
+    padding: 10px 30px; /* Adjust padding for smaller screens */
+
+    .logo {
+      margin-bottom: 10px; /* Add spacing below the logo */
+    }
+
+    nav {
+      flex-wrap: wrap; /* Allow nav items to wrap */
+      gap: 10px; /* Reduce spacing between nav items */
+
+      a {
+        font: {
+          size: 16px; /* Adjust font size for smaller screens */
+        }
+        margin: 0; /* Remove margins for better alignment */
+      }
+    }
+  }
+}
