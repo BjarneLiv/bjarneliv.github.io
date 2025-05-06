@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: default
 title: Home
+permalink: /
 ---
 # Welcome to My Portfolio
 Hi, I'm Bjarne Liveyns, an actor and performer. Here you'll find my projects, experiences, and skills. Feel free to explore!
