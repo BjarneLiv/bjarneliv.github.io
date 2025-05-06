@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: page
 title: Resume
 permalink: /resume
 ---
-# Bjarne Liveyns
-
+## Bjarne Liveyns
 ## Contact Details
 - **Email**: [bjarneliv@proton.me]
 - **Phone**: [+32 468 11 00 67]
