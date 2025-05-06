@@ -15,11 +15,8 @@ permalink: /resume
 - **Height**: 1.78 m
 - **Hair Color**: Dark Brown
 - **Eye Color**: Brown
-- I usually have a moustache but at the moment I look like this:
- ![[Headshot_nice_hand_on_face.jpg|150]]![[Headshot_looking_up.jpg|150]]![[Headshot_in_the_distance.jpg|150]]
----
 
-## Education
+---
 ### Acting Training
 - **2022 - Present** - **Academic Bachelor of Drama**  
   KASK (Royal Academy of Fine Arts), Ghent, Belgium
@@ -28,9 +25,8 @@ permalink: /resume
   Stedelijk Kunstinstituut (SKI), Ghent, Belgium
 
 ---
-
-## Theater Experience
-### Youth Theater
+## Theatre Experience
+### Youth Theatre
 - **2020**  
   Jeugdtheater Larf!, Ghent, Belgium  
   *"Breek 'n Been" Festival*
@@ -46,8 +42,6 @@ permalink: /resume
   *Performed in multiple productions during the "Word Art" training program*
 
 ---
-
-## Film and Television Experience
 ### Short Films
 - **2022** - **Supporting Lead Role** in **"De Date"**  
   Director: Mon Dewulf  
@@ -82,7 +76,7 @@ permalink: /resume
   jan.steen@hogent.be
 
 - **Kuno Bakker**  
-  Teacher/Actor/Theater Maker, KASK/Dood Paard  
+  Teacher/Actor/Theatre Maker, KASK/Dood Paard  
   https://www.instagram.com/kunobakker/
 
 - **Kristof van Baarle**  
@@ -90,15 +84,15 @@ permalink: /resume
   kristof.vanbaarle@hogent.be
 
 - **Geert Belpaeme**  
-  Teacher/Theater Maker, KASK  
+  Teacher/Theatre Maker, KASK  
   geert.belpaeme@hogent.be
 
 - **Annelies de Nil**  
   Actress/Teacher, Jeugdtheater Larf!
 
 - **Jolente De Keersmaeker**  
-  Teacher/Actor/Theater Maker, KASK/tg Stan  
+  Teacher/Actor/Theatre Maker, KASK/tg Stan  
   jolente.dekeersmaeker@hogent.be
 
 - **Carolina Maciel Da França**  
-  Teacher/Dramaturge, KASK
+  Teacher/Dramaturg, KASK
