@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Just Like James Dean'
+permalink: /just-like-james-dean  # Must match the filename
 ---
 
 This is a short of a first year KASK student I'm currently playing in. It's inspired by the magazine scene with Keanu Reeves in _My Own Private Idaho_ and _Rebel Withouth a Cause_ with James Dean.
