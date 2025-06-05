@@ -8,4 +8,4 @@ They have a passion for all things acting, voice work, shorts, the stage... and 
 Projects that are the result of these collaborations will gradually be added in the projects tab as they roll out.
 In their spare time Bjarne enjoys playing jazz tunes on the trumpet and exercising.
 
-![Bjarne_Liveyns_portret](https://github.com/user-attachments/assets/8da62c99-ca3f-4c7d-8fd3-d3b5a56a8e61)
+![Portret](../assets/img/projects/oog.jpg)
